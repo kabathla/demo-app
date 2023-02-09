@@ -1,3 +1,7 @@
+# Note
+
+VMware has ended active development of this project, this repository will no longer be updated.
+
 # Tanzu Observability Demo Application
 
 This project is a polyglot demo application with several services to show you how to send your data and view the data on Tanzu Observability.
